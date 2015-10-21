@@ -23,4 +23,4 @@ curl -X PUT mzi:password@localhost:8080/events/1/persons -H 'Content-Type:text/u
 
 curl -X GET mzi:password@localhost:8080/search/person?criteria=firstName:a
 
-
+alternativaly, use the <a href='https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop'>postman</a> (for chrome) to test the api
